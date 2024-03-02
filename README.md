@@ -64,7 +64,6 @@ acer S50-51 Hackintosh EFI with OpenCore 0.9.8
 - [x] Realtek® Audio.
 - [x] Sleep/Wake.
 - [x] TouchPad. `1-5 fingers swipe works. Emulate force touch using longer and more voluminous touch`
-- [x] TrackPoint. `Works perfectly. Just like on Windows or Linux`
 - [x] USB Ports. 
 - [x] Web camera.
 - [x] Wifi. `Intel(R) Wifi6 AX 201 160MHz`
