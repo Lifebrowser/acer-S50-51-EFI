@@ -4,7 +4,7 @@ acer S50-51 Hackintosh EFI with OpenCore 0.9.8
 [中文版简介](https://github.com/Lifebrowser/acer-S50-51-EFI/blob/main/%E7%AE%80%E4%BB%8B.md)
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.9.8-lightblue.svg)](https://github.com/acidanthera/OpenCorePkg)
-[![macOS-Stable](https://img.shields.io/badge/macOS-14.3-orange.svg)](https://www.apple.com/macos/sonoma/)
+[![macOS-Stable](https://img.shields.io/badge/macOS-14.3.1-orange.svg)](https://www.apple.com/macos/sonoma/)
 [![Windows-Stable](https://img.shields.io/badge/Windows-11-blue.svg)](https://www.microsoft.com/en-us/windows)
 
 ## Introduction
@@ -30,7 +30,7 @@ acer S50-51 Hackintosh EFI with OpenCore 0.9.8
 
 | Component      | Version        |
 | -------------- |  ------------- |
-| macOS Sonoma   | 14.3(23D56)    |
+| macOS Sonoma   | 14.3.1(23D60)  |
 | Windows 11     | 23H2           |
 | OpenCore       | v0.9.8         |
 
@@ -55,7 +55,7 @@ acer S50-51 Hackintosh EFI with OpenCore 0.9.8
 <summary><strong>What's working </strong></summary>
 
 - [x] Battery percentage.
-- [x] CPU power management / performance.
+- [ ] CPU power management / performance. CPU always run in hi-speed, I got no idea about that, need help.
 - [x] GPU UHD Graphics hardware acceleration / performance.
 - [x] HDMI. `Closed and opened lid. With audio`
 - [x] iMessage, FaceTime, App Store, iTunes Store. **Make sure to generate your own SMBIOS**
